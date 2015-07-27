@@ -1,7 +1,7 @@
 {
     "parent": "builtin/generated",
     "textures": {
-        "layer0": "beecraft:items/honeyBottle"
+        "layer0": "beecraft:items/potUnfired"
     },
     "display": {
         "thirdperson": {
