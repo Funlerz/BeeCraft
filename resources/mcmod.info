@@ -1,0 +1,16 @@
+[
+{
+  "modid": "beecraft",
+  "name": "BeeCraft",
+  "description": "Now you can get stung by bees and collect honey!",
+  "version": "0.0.1",
+  "mcversion": "1.8",
+  "url": "http://funlerz.com/beecraft",
+  "updateUrl": "",
+  "authorList": ["Funlerz"],
+  "credits": "Funlerz",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
